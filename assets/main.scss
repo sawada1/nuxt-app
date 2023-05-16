@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body,
+html
+{
+  width: 100%;
+ overflow-x: hidden;
+}
+
+.grad{
+    background-image: linear-gradient(to left , darkblue, darkmagenta);
+    // background-color: ;
+}

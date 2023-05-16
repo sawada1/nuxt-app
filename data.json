@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"khaled",
+            "age":22,
+            "image":"~/assets/kk.jpg"
+        },
+        {
+            "id":2,
+            "name":"moahamed",
+            "age":23,
+            "image":"~/assets/kk.jpg"
+        }
+    ]
+}
